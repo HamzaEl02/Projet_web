@@ -1,0 +1,209 @@
+{
+    "Cocktails": [
+        {
+            "Nom":"Mojito",
+            "Couleur":"#FAEBE7",
+            "Ingredients":[
+                {
+                    "Nom": "Rhum cubain",
+                    "Contenance" : 6,
+                    "Couleur":"#AA3E10",
+                    "DegréAlcool":35
+                },
+                {
+                    "Nom": "Jus de citron",
+                    "Contenance" : 3,
+                    "Couleur":"#ECEB2E",
+                    "DegréSucre":2
+                },
+                {
+                    "Nom": "Sirop de sucre de canne",
+                    "Contenance" : 2,
+                    "Couleur":"#CFC1BF",
+                    "DegréSucre":2.0
+                },
+                
+                {
+                    "Nom": "Eau gazeuse",
+                    "Contenance" : 8,
+                    "Couleur":"#1586E8",
+                    "DegréSucre":0
+                }
+            ]
+            
+            
+        },
+        
+        {
+            "Nom":"Pina Colada",
+            "Couleur":"#E7E5E5",
+            "Ingredients":[
+                {
+                    "Nom": "Rhum cubain",
+                    "Contenance" : 2,
+                    "Couleur":"#AA3E10",
+                    "DegréAlcool":35
+                },
+                {
+                    "Nom": "Rhum Blanc",
+                    "Contenance" : 4,
+                    "Couleur":"#EEE9E8",
+                    "DegréAlcool":4
+                },
+                {
+                    "Nom": "Lait de coco",
+                    "Contenance" : 4,
+                    "Couleur":"#FEFEFE",
+                    "DegréSucre":4
+                },
+               
+               {
+                    "Nom": "Jus d'ananas",
+                    "Contenance" : 10,
+                    "Couleur":"##CFD722",
+                    "DegréSucre":4
+                }
+            ]
+            
+            
+        },
+        
+         {
+            "Nom":"Sex on the beach",
+            "Couleur":"#DBA72F",
+            "Ingredients":[
+                {
+                    "Nom": "Vodka",
+                    "Contenance" : 3,
+                    "Couleur":"#F9F9F5",
+                    "DegréAlcool":40
+                },
+                {
+                    "Nom": "Sirop de Melon",
+                    "Contenance" : 2,
+                    "Couleur":"#F9A108",
+                    "DegréSucre":3
+                },
+               
+               {
+                    "Nom": "Jus d'ananas",
+                    "Contenance" : 3,
+                    "Couleur":"##CFD722",
+                    "DegréSucre":4
+                },
+                {
+                    "Nom": "Jus de Cranberry",
+                    "Contenance" : 5,
+                    "Couleur":"#EA2E28",
+                    "DegréSucre":5
+                }
+            ] 
+        },
+        
+        {
+            "Nom":"Tequila Sunrise",
+            "Couleur":"#F0BA2A",
+            "Ingredients":[
+                {
+                    "Nom": "Tequila",
+                    "Contenance" : 3,
+                    "Couleur":"#FAFEA9",
+                    "DegréAlcool":40
+                },
+                {
+                    "Nom": "Jus d'orange",
+                    "Contenance" : 3,
+                    "Couleur":"#E08511",
+                    "DegréSucre":4
+                },
+                {
+                    "Nom": "Sirop de grenadine",
+                    "Contenance" : 3,
+                    "Couleur":"#DC1542",
+                    "DegréSucre":10
+                }
+            ]
+                     
+        },
+        
+        {
+            "Nom":"Screwdriver",
+            "Couleur":"#DE9620",
+            "Ingredients":[
+                {
+                    "Nom": "Vodka",
+                    "Contenance" : 4,
+                    "Couleur":"#F9F9F5",
+                    "DegréAlcool":40
+                },
+                {
+                    "Nom": "Jus d'orange",
+                    "Contenance" : 16,
+                    "Couleur":"#E08511",
+                    "DegréSucre":4
+                }
+            ] 
+        },
+        
+        {
+            "Nom":"Blue Hawaiian",
+            "Couleur":"#20B2ED",
+            "Ingredients":[
+                
+                {
+                    "Nom": "Rhum Blanc",
+                    "Contenance" : 4,
+                    "Couleur":"#EEE9E8",
+                    "DegréAlcool":40
+                },
+                {
+                    "Nom": "Curaçao bleu",
+                    "Contenance" : 2,
+                    "Couleur":"#2865EA",
+                    "DegréAlcool":20
+                },
+                {
+                    "Nom": "Lait de coco",
+                    "Contenance" : 4,
+                    "Couleur":"#FEFEFE",
+                    "DegréSucre":4
+                },
+               
+               {
+                    "Nom": "Jus d'ananas",
+                    "Contenance" : 1,
+                    "Couleur":"##CFD722",
+                    "DegréSucre":4
+                }
+            ]
+            
+            
+        },
+        
+        {
+            "Nom":"Amaretto Sour",
+            "Couleur":"#E3AB17",
+            "Ingredients":[
+                {
+                    "Nom": "Amaretto",
+                    "Contenance" : 12,
+                    "Couleur":"#A45E5E",
+                    "DegréAlcool":28
+                },
+                {
+                    "Nom": "Jus de citron",
+                    "Contenance" : 4,
+                    "Couleur":"#ECEB2E",
+                    "DegréSucre":2
+                },
+                {
+                    "Nom": "Sirop de sucre de canne",
+                    "Contenance" : 4,
+                    "Couleur":"#CFC1BF",
+                    "DegréSucre":2
+                }
+            ]
+        }
+        
+    ]
+}
