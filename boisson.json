@@ -1,0 +1,82 @@
+{
+    "BoissonAlcoolisee" : [
+        {"Nom": "Rhum cubain",
+         "Couleur":"#AA3E10",
+         "DegréAlcool":35
+        },
+        
+        {"Nom": "Rhum Blanc",
+         "Couleur":"#EEE9E8",
+         "DegréAlcool":40
+        },
+        
+        {"Nom": "Vodka",
+         "Couleur":"#F9F9F5",
+         "DegréAlcool":40
+        },
+        
+        {"Nom": "Curaçao bleu",
+         "Couleur":"#2865EA",
+         "DegréAlcool":20
+        },
+        
+        {"Nom": "Tequila",
+         "Couleur":"#FAFEA9",
+         "DegréAlcool":40
+        },
+        
+        {"Nom": "Amaretto",
+         "Couleur":"#A45E5E",
+         "DegréAlcool":28
+        }
+    ],
+    
+    "BoissonNonAlcoolisee" : [
+        
+        {"Nom": "Jus de citrons",
+         "Couleur":"#ECEB2E",
+         "DegréSucre":2
+        },
+        
+        {"Nom": "Eau gazeuse",
+         "Couleur":"#1586E8",
+         "DegréSucre":0
+        },
+        
+        {"Nom": "Sirop de sucre de canne",
+         "Couleur":"#CFC1BF",
+         "DegréSucre":8
+        },
+        
+        {"Nom": "Lait de coco",
+         "Couleur":"#FEFEFE",
+         "DegréSucre":4
+        },
+        
+        {"Nom": "Jus d'ananas",
+         "Couleur":"##CFD722",
+         "DegréSucre":4
+        },
+        
+        {"Nom": "Sirop de Melon",
+         "Couleur":"#F9A108",
+         "DegréSucre":3
+        },
+        
+        {"Nom": "Jus de Cranberry",
+         "Couleur":"#EA2E28",
+         "DegréSucre":5
+        },
+        
+        {"Nom": "Jus d'orange",
+         "Couleur":"#E08511",
+         "DegréSucre":4
+        },
+        
+        {"Nom": "Sirop de grenadine",
+         "Couleur":"#DC1542",
+         "DegréSucre":10
+        }
+    ]
+ 
+}
