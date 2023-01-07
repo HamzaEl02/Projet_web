@@ -45,9 +45,13 @@ body#Tableau{
 }
 
 body#Aide{
+  
     background: url(../picturebar/pexels-mali-maeder-219095.jpg) no-repeat fixed ;
     background-size: cover;
+  
+  
 }
+
 
 
 section#Choix{
@@ -194,7 +198,7 @@ footer {
     margin: 0;
     padding: 0;
     
-    background-color: #333;
+    
   }
   
   section#TravailRéaliser h1 {
@@ -203,14 +207,20 @@ footer {
   }
   
   section#TravailRéaliser h2 {
-    margin: 10px 0;
-    font-size: 18px;
-    font-weight: bold;
+    
+    color:#5ff700;
+    text-align:center;
+    border: 5px solid rgba (255,176,170,0.5);
+    cursor:pointer;
   }
   
   section#TravailRéaliser h3 {
-    margin: 5px 0;
-    font-size: 14px;
+    color:#ffffff;
+    font-style: italic;
+    font-family: "Times New Roman";
+    text-align:center;
+    border: 5px solid rgba (255,176,170,0.5);
+    cursor:pointer;
   }
   
   
